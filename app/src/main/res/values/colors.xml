@@ -14,4 +14,5 @@
     <color name="icActive">#FFFFFFFF</color>
     <color name="icFocused">#DDFFFFFF</color>
     <color name="icPressed">#AAFFFFFF</color>
+    <color name="aquaMarine">#2596A4</color>
 </resources>

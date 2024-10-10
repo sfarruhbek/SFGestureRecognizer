@@ -30,7 +30,7 @@
             android:layout_height="?attr/actionBarSize"
             android:layout_alignParentTop="true"
             android:layout_marginTop="2dp"
-            android:background="@color/toolbar_background">
+            android:background="@color/aquaMarine">
 
             <TextView
                 android:layout_width="match_parent"
